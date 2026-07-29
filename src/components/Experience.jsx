@@ -22,8 +22,6 @@ const Experience = () => {
                             <div className="timeline__bullet"></div>
                             <div className="timeline__header">
                                 <h3 className="timeline__title">Enterprise Portal Engineering</h3>
-                                <h5 className="timeline__meta">Airsial</h5>
-                                <p className="timeline__timeframe">October 2024 - Present</p>
                             </div>
                             <div className="timeline__desc">
                                 <ul>
@@ -39,8 +37,6 @@ const Experience = () => {
                             <div className="timeline__bullet"></div>
                             <div className="timeline__header">
                                 <h3 className="timeline__title">API & Backend Infrastructure</h3>
-                                <h5 className="timeline__meta">Dot & Line</h5>
-                                <p className="timeline__timeframe">June 2023 - September 2024</p>
                             </div>
                             <div className="timeline__desc">
                                 <ul>
@@ -57,8 +53,6 @@ const Experience = () => {
                             <div className="timeline__bullet"></div>
                             <div className="timeline__header">
                                 <h3 className="timeline__title">Custom Application Development</h3>
-                                <h5 className="timeline__meta">TeamX Pakistan</h5>
-                                <p className="timeline__timeframe">October 2022 - May 2023</p>
                             </div>
                             <div className="timeline__desc">
                                 <ul>
@@ -74,8 +68,6 @@ const Experience = () => {
                             <div className="timeline__bullet"></div>
                             <div className="timeline__header">
                                 <h3 className="timeline__title">Full-Stack Software Development</h3>
-                                <h5 className="timeline__meta">Digital Consultants</h5>
-                                <p className="timeline__timeframe">August 2020 - September 2022</p>
                             </div>
                             <div className="timeline__desc">
                                 <ul>
