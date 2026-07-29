@@ -18,42 +18,42 @@ const Services = () => {
 
                 <div className="col-block service-item" data-aos="fade-up">
                     <div className="service-icon">
-                        <i className="icon-group"></i>
+                        <i className="icon-window"></i>
                     </div>
                     <div className="service-text">
-                        <h3 className="h2">Backend Development</h3>
-                        <p>Specialists in building scalable server-side applications using PHP and Laravel. Proficient in MVC architecture, Eloquent ORM, secure authentication, and implementing complex business logic to drive modern web solutions.
+                        <h3 className="h2">Web Application Development</h3>
+                        <p>We build dynamic, high-performance web applications tailored to your business needs using Laravel, PHP, and modern frontend technologies like React.js.
                         </p>
                     </div>
                 </div>
 
                 <div className="col-block service-item" data-aos="fade-up">
                     <div className="service-icon">
-                        <i className="icon-paint-brush"></i>
+                        <i className="icon-earth"></i>
                     </div>
                     <div className="service-text">
-                        <h3 className="h2">Frontend Development</h3>
-                        <p>Expertise in creating responsive and dynamic user interfaces using React.js, HTML5, and CSS3. Focused on delivering seamless user experiences with modern component-based architecture and clean, maintainable code.
+                        <h3 className="h2">API & Integration Services</h3>
+                        <p>Design and development of robust, secure RESTful APIs, along with seamless integration of third-party APIs like payment gateways (Stripe, PayFast), tracking software, and messaging channels.
                         </p>
                     </div>
                 </div>
 
                 <div className="col-block service-item" data-aos="fade-up">
                     <div className="service-icon">
-                        <i className="icon-cube"></i>
+                        <i className="icon-database"></i>
                     </div>
                     <div className="service-text">
-                        <h3 className="h2">Database Management</h3>
-                        <p>Deep expertise in database management systems with specialization in MySQL. Skilled in designing efficient database schemas, writing optimized queries, and implementing caching strategies to improve system performance.
+                        <h3 className="h2">Database Architecture</h3>
+                        <p>Designing optimized relational databases with MySQL, ensuring data integrity, structuring complex schemas, and implementing caching systems for optimal load speeds.
                         </p>
                     </div>
                 </div>
 
                 <div className="col-block service-item" data-aos="fade-up">
-                    <div className="service-icon"><i className="icon-lego-block"></i></div>
+                    <div className="service-icon"><i className="icon-gear"></i></div>
                     <div className="service-text">
-                        <h3 className="h2">Git Version Control</h3>
-                        <p>Robust version control workflows using Git and GitHub. Skilled in collaborative development, maintaining clean commit history, and ensuring code integrity for seamless project management.
+                        <h3 className="h2">Maintenance & Support</h3>
+                        <p>Providing proactive software maintenance, application enhancements, bug fixes, database optimizations, and system monitoring to keep portals stable and reliable.
                         </p>
                     </div>
                 </div>
