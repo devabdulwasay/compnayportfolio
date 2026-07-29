@@ -21,16 +21,16 @@ const Experience = () => {
                         <div className="timeline__block" data-aos="fade-up">
                             <div className="timeline__bullet"></div>
                             <div className="timeline__header">
-                                <h3 className="timeline__title">Mid-Level Software Developer</h3>
+                                <h3 className="timeline__title">Enterprise Portal Engineering</h3>
                                 <h5 className="timeline__meta">Airsial</h5>
                                 <p className="timeline__timeframe">October 2024 - Present</p>
                             </div>
                             <div className="timeline__desc">
                                 <ul>
-                                    <li>Managed and enhanced employee and HR portals to streamline internal workflows and improve user experience.</li>
-                                    <li>Designed and implemented features to support human resource management processes, including employee onboarding and performance tracking.</li>
-                                    <li>Collaborated with HR teams to align portal functionalities with organizational needs and compliance standards.</li>
-                                    <li>Conducted regular maintenance and troubleshooting to ensure portal reliability and data integrity.</li>
+                                    <li>Successfully managed and enhanced enterprise-level employee and HR portals to streamline internal workflows and improve user experience.</li>
+                                    <li>Designed and implemented features to support automated human resource management processes, including onboarding and performance tracking.</li>
+                                    <li>Collaborated with corporate teams to align portal functionalities with organizational needs and strict compliance standards.</li>
+                                    <li>Conducted routine maintenance and proactive troubleshooting to ensure portal reliability and data integrity.</li>
                                 </ul>
                             </div>
                         </div>
@@ -38,17 +38,17 @@ const Experience = () => {
                         <div className="timeline__block" data-aos="fade-up">
                             <div className="timeline__bullet"></div>
                             <div className="timeline__header">
-                                <h3 className="timeline__title">Laravel Developer</h3>
+                                <h3 className="timeline__title">API & Backend Infrastructure</h3>
                                 <h5 className="timeline__meta">Dot & Line</h5>
                                 <p className="timeline__timeframe">June 2023 - September 2024</p>
                             </div>
                             <div className="timeline__desc">
                                 <ul>
-                                    <li>Developed and maintained scalable APIs.</li>
-                                    <li>Collaborated with front-end developers to design and implement efficient and responsive server-side architecture.</li>
-                                    <li>Strong understanding of database management systems, with expertise in MySQL.</li>
-                                    <li>Analyzed and optimized database queries and implemented caching strategies to improve system performance.</li>
-                                    <li>Initially joined with a focus on Laravel development, but expanded expertise to include React.js, enhancing skill set and versatility.</li>
+                                    <li>Developed, optimized, and maintained highly scalable backend APIs for dynamic web platforms.</li>
+                                    <li>Partnered with frontend development teams to design and implement efficient, responsive server-side architecture.</li>
+                                    <li>Designed relational database schemas with expert utilization of MySQL.</li>
+                                    <li>Analyzed database queries, implemented advanced caching strategies, and improved overall system performance.</li>
+                                    <li>Expanded technical stack integrations to include React.js, enhancing versatility in full-stack project deliveries.</li>
                                 </ul>
                             </div>
                         </div>
@@ -56,16 +56,16 @@ const Experience = () => {
                         <div className="timeline__block" data-aos="fade-up">
                             <div className="timeline__bullet"></div>
                             <div className="timeline__header">
-                                <h3 className="timeline__title">Laravel Developer</h3>
+                                <h3 className="timeline__title">Custom Application Development</h3>
                                 <h5 className="timeline__meta">TeamX Pakistan</h5>
                                 <p className="timeline__timeframe">October 2022 - May 2023</p>
                             </div>
                             <div className="timeline__desc">
                                 <ul>
-                                    <li>Determined best approach for application code development, meeting customer’s current requirements and anticipated future enhancement needs.</li>
-                                    <li>Worked closely with project managers and clients to obtain sign-off on functional specification.</li>
-                                    <li>Conducted trial runs of programs and software applications, producing desired information and instructions.</li>
-                                    <li>Created test plans and conducted unit testing for programming and integration assignments.</li>
+                                    <li>Determined best architectural patterns for application code development, meeting short-term requirements and facilitating future scaling.</li>
+                                    <li>Collaborated with product managers and client representatives to finalize project functional specifications.</li>
+                                    <li>Executed thorough testing and trial runs of programs to verify software stability and instruct user operations.</li>
+                                    <li>Authored test cases and conducted unit testing for programming and system integration assignments.</li>
                                 </ul>
                             </div>
                         </div>
@@ -73,15 +73,15 @@ const Experience = () => {
                         <div className="timeline__block" data-aos="fade-up">
                             <div className="timeline__bullet"></div>
                             <div className="timeline__header">
-                                <h3 className="timeline__title">Laravel Developer</h3>
+                                <h3 className="timeline__title">Full-Stack Software Development</h3>
                                 <h5 className="timeline__meta">Digital Consultants</h5>
-                                <p className="timeline__timeframe">Aug 2020 - September 2022</p>
+                                <p className="timeline__timeframe">August 2020 - September 2022</p>
                             </div>
                             <div className="timeline__desc">
                                 <ul>
-                                    <li>Transformed client business requirements into full-stack solutions, integrating with existing systems and databases.</li>
-                                    <li>Reviewed and implemented solutions for bugs and enhancements within software.</li>
-                                    <li>Performed revision and repair of existing programs, increasing operating efficiency or adapting to new requirements.</li>
+                                    <li>Transformed client business requirements into stable full-stack solutions, integrating with existing systems and databases.</li>
+                                    <li>Reviewed, diagnosed, and resolved application bugs and developed performance enhancements.</li>
+                                    <li>Performed refactoring and optimizations of legacy programs, increasing operating efficiency and adaptability.</li>
                                 </ul>
                             </div>
                         </div>

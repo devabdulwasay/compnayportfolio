@@ -26,7 +26,6 @@ const Header = () => {
                         <li className="current"><a className="smoothscroll" href="#home" title="home">Home</a></li>
                         <li><a className="smoothscroll" href="#about" title="about">About</a></li>
                         <li><a className="smoothscroll" href="#experience" title="experience">Experience</a></li>
-                        <li><a className="smoothscroll" href="#education" title="education">Education</a></li>
                         <li><a className="smoothscroll" href="#services" title="services">Services</a></li>
                         <li><a className="smoothscroll" href="#works" title="works">Works</a></li>
                         <li><a className="smoothscroll" href="#contact" title="contact">Contact</a></li>

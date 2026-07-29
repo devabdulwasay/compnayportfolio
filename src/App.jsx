@@ -5,7 +5,6 @@ import Header from './components/Header';
 import Home from './components/Home';
 import About from './components/About';
 import Experience from './components/Experience';
-import Education from './components/Education';
 import Services from './components/Services';
 import Works from './components/Works';
 import Clients from './components/Clients';
@@ -50,7 +49,6 @@ function App() {
       <Home />
       <About />
       <Experience />
-      <Education />
       <Services />
       <Works />
       {/* <Clients /> */}
