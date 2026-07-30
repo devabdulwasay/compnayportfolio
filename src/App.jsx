@@ -50,12 +50,12 @@ function App() {
       <Header />
       <Home />
       <About />
+      <Stats />
       <Experience />
       <Services />
+      <Process />
       <Works />
       {/* <Clients /> */}
-      <Stats />
-      <Process />
       <Contact />
       <Footer />
       <SpeedInsights />
