@@ -40,7 +40,7 @@ const Services = () => {
 
                 <div className="col-block service-item" data-aos="fade-up">
                     <div className="service-icon">
-                        <i className="icon-gear"></i>
+                        <i className="icon-settings"></i>
                     </div>
                     <div className="service-text">
                         <h3 className="h2">⚙️ Software Management</h3>

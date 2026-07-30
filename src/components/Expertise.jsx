@@ -2,11 +2,13 @@ import React from 'react';
 
 const Expertise = () => {
     return (
-        <section id="expertise" className="s-services" style={{ backgroundColor: "#151515", padding: "12rem 0 10rem 0", borderBottom: "1px solid #1a1a1a" }}>
-            <div className="row section-header" data-aos="fade-up">
-                <div className="col-full">
-                    <h3 className="subhead">Our Expertise</h3>
-                    <h1 className="display-2 display-2--light" style={{ color: "#ffffff" }}>Technologies We Work With</h1>
+        <section id="expertise" className="s-services">
+            <div className="intro-wrap">
+                <div className="row section-header has-bottom-sep light-sep" data-aos="fade-up">
+                    <div className="col-full">
+                        <h3 className="subhead">Our Expertise</h3>
+                        <h1 className="display-2 display-2--light">Technologies We Work With</h1>
+                    </div>
                 </div>
             </div>
 
@@ -19,7 +21,7 @@ const Expertise = () => {
                     </div>
                     <div className="service-text">
                         <h3 className="h2">💻 Frontend Development</h3>
-                        <p style={{ fontSize: "1.6rem", color: "#888888" }}>
+                        <p>
                             React, Vue, HTML5, CSS3, Tailwind CSS
                         </p>
                     </div>
@@ -28,11 +30,11 @@ const Expertise = () => {
                 {/* Card 2 */}
                 <div className="col-block service-item">
                     <div className="service-icon">
-                        <i className="icon-gear"></i>
+                        <i className="icon-settings"></i>
                     </div>
                     <div className="service-text">
                         <h3 className="h2">⚙️ Backend Development</h3>
-                        <p style={{ fontSize: "1.6rem", color: "#888888" }}>
+                        <p>
                             Laravel, PHP, Node.js, Express
                         </p>
                     </div>
@@ -41,11 +43,11 @@ const Expertise = () => {
                 {/* Card 3 */}
                 <div className="col-block service-item">
                     <div className="service-icon">
-                        <i className="icon-database"></i>
+                        <i className="icon-files"></i>
                     </div>
                     <div className="service-text">
                         <h3 className="h2">🗄️ Database</h3>
-                        <p style={{ fontSize: "1.6rem", color: "#888888" }}>
+                        <p>
                             MySQL, PostgreSQL, MongoDB
                         </p>
                     </div>
@@ -58,7 +60,7 @@ const Expertise = () => {
                     </div>
                     <div className="service-text">
                         <h3 className="h2">☁️ Cloud & Hosting</h3>
-                        <p style={{ fontSize: "1.6rem", color: "#888888" }}>
+                        <p>
                             AWS, DigitalOcean, cPanel, Linux
                         </p>
                     </div>
@@ -71,7 +73,7 @@ const Expertise = () => {
                     </div>
                     <div className="service-text">
                         <h3 className="h2">📦 CMS</h3>
-                        <p style={{ fontSize: "1.6rem", color: "#888888" }}>
+                        <p>
                             WordPress, Shopify
                         </p>
                     </div>
@@ -84,7 +86,7 @@ const Expertise = () => {
                     </div>
                     <div className="service-text">
                         <h3 className="h2">📈 Marketing Tools</h3>
-                        <p style={{ fontSize: "1.6rem", color: "#888888" }}>
+                        <p>
                             Google Ads, Meta Ads, Analytics
                         </p>
                     </div>
