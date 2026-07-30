@@ -9,6 +9,7 @@ import Services from './components/Services';
 import Works from './components/Works';
 import Clients from './components/Clients';
 import Stats from './components/Stats';
+import Process from './components/Process';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 
@@ -54,6 +55,7 @@ function App() {
       <Works />
       {/* <Clients /> */}
       <Stats />
+      <Process />
       <Contact />
       <Footer />
       <SpeedInsights />
