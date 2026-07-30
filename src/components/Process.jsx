@@ -2,7 +2,7 @@ import React from 'react';
 
 const Process = () => {
     return (
-        <section id="process" className="s-process target-section" style={{ backgroundColor: "#111111", padding: "12rem 0 10rem 0", borderBottom: "1px solid #1a1a1a", overflow: "hidden" }}>
+        <section id="process" className="s-process target-section" style={{ backgroundColor: "#0c0c0c", padding: "12rem 0 10rem 0", borderBottom: "1px solid #1a1a1a", marginBottom: "8rem", overflow: "hidden" }}>
             
             <style dangerouslySetInnerHTML={{__html: `
                 .process-container {
