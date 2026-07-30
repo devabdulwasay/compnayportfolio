@@ -2,7 +2,7 @@ import React from 'react';
 
 const Process = () => {
     return (
-        <section id="process" className="s-process target-section" style={{ backgroundColor: "#0c0c0c", padding: "12rem 0 10rem 0", borderBottom: "1px solid #1a1a1a", marginBottom: "8rem", overflow: "hidden" }}>
+        <section id="process" className="s-process target-section" style={{ backgroundColor: "#ffffff", padding: "12rem 0 10rem 0", borderBottom: "1px solid #e5e5e5", marginBottom: "8rem", overflow: "hidden" }}>
             
             <style dangerouslySetInnerHTML={{__html: `
                 .process-container {
@@ -58,7 +58,7 @@ const Process = () => {
                         position: relative;
                         width: 60px;
                         height: 60px;
-                        background: #111111;
+                        background: #ffffff;
                         border: 3px solid #39b54a;
                         border-radius: 50%;
                         display: flex;
@@ -67,7 +67,7 @@ const Process = () => {
                         font-weight: 700;
                         font-size: 1.8rem;
                         color: #39b54a;
-                        box-shadow: 0 0 20px rgba(57, 181, 74, 0.2);
+                        box-shadow: 0 0 20px rgba(57, 181, 74, 0.15);
                         cursor: pointer;
                         transition: all 0.3s ease;
                         margin: 15px 0;
@@ -76,7 +76,7 @@ const Process = () => {
                     .process-step:hover .step-node {
                         background: #39b54a;
                         color: #ffffff;
-                        box-shadow: 0 0 30px rgba(57, 181, 74, 0.6);
+                        box-shadow: 0 0 30px rgba(57, 181, 74, 0.4);
                         transform: scale(1.15);
                     }
                     
@@ -105,7 +105,7 @@ const Process = () => {
                         display: flex;
                         flex-direction: column;
                         padding-left: 40px;
-                        border-left: 2px dashed #333333;
+                        border-left: 2px dashed #dddddd;
                         margin-left: 20px;
                     }
                     
@@ -121,7 +121,7 @@ const Process = () => {
                         top: 0;
                         width: 40px;
                         height: 40px;
-                        background: #111111;
+                        background: #ffffff;
                         border: 2px solid #39b54a;
                         border-radius: 50%;
                         display: flex;
@@ -141,14 +141,14 @@ const Process = () => {
                 /* Typography Styling */
                 .step-title {
                     font-size: 1.8rem;
-                    color: #ffffff;
+                    color: #111111;
                     margin-bottom: 0.8rem;
                     font-weight: 600;
                 }
                 
                 .step-desc {
                     font-size: 1.4rem;
-                    color: #888888;
+                    color: #555555;
                     line-height: 1.6;
                     margin: 0;
                 }
@@ -156,8 +156,8 @@ const Process = () => {
 
             <div className="row section-header" data-aos="fade-up">
                 <div className="col-full">
-                    <h3 className="subhead">Our Process</h3>
-                    <h1 className="display-1 display-1--light" style={{ color: "#ffffff" }}>How We Work</h1>
+                    <h3 className="subhead" style={{ color: "#39b54a" }}>Our Process</h3>
+                    <h1 className="display-1" style={{ color: "#111111" }}>How We Work</h1>
                 </div>
             </div>
 
@@ -169,7 +169,7 @@ const Process = () => {
                         <path 
                             d="M 50,60 C 150,0 200,120 300,60 C 400,0 450,120 550,60 C 650,0 700,120 800,60 C 900,0 950,120 1050,60 C 1150,0 1150,60 1150,60" 
                             fill="transparent" 
-                            stroke="#333333" 
+                            stroke="#e5e5e5" 
                             strokeWidth="3" 
                             strokeDasharray="6,6"
                         />
