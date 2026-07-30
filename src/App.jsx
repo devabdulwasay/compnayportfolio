@@ -6,6 +6,7 @@ import Home from './components/Home';
 import About from './components/About';
 import Experience from './components/Experience';
 import Services from './components/Services';
+import Expertise from './components/Expertise';
 import Works from './components/Works';
 import Clients from './components/Clients';
 import Stats from './components/Stats';
@@ -53,6 +54,7 @@ function App() {
       <Stats />
       <Experience />
       <Services />
+      <Expertise />
       <Process />
       <Works />
       {/* <Clients /> */}
