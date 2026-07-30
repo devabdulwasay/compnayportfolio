@@ -18,22 +18,55 @@ const Services = () => {
 
                 <div className="col-block service-item" data-aos="fade-up">
                     <div className="service-icon">
-                        <i className="icon-window"></i>
+                        <i className="icon-earth"></i>
                     </div>
                     <div className="service-text">
-                        <h3 className="h2">Web Application Development</h3>
-                        <p>We build dynamic, high-performance web applications tailored to your business needs using Laravel, PHP, and modern frontend technologies like React.js.
+                        <h3 className="h2">🌐 Web Development</h3>
+                        <p>We build fast, secure, and scalable websites tailored to your business goals. From custom web applications to e-commerce platforms, our solutions are designed for performance, reliability, and future growth.
                         </p>
                     </div>
                 </div>
 
                 <div className="col-block service-item" data-aos="fade-up">
                     <div className="service-icon">
-                        <i className="icon-earth"></i>
+                        <i className="icon-paint-brush"></i>
                     </div>
                     <div className="service-text">
-                        <h3 className="h2">API & Integration Services</h3>
-                        <p>Design and development of robust, secure RESTful APIs, along with seamless integration of third-party APIs like payment gateways (Stripe, PayFast), tracking software, and messaging channels.
+                        <h3 className="h2">🎨 Web Design & UI/UX</h3>
+                        <p>Our team creates modern, responsive, and user-friendly designs that leave a lasting impression. We focus on intuitive user experiences that increase engagement and turn visitors into customers.
+                        </p>
+                    </div>
+                </div>
+
+                <div className="col-block service-item" data-aos="fade-up">
+                    <div className="service-icon">
+                        <i className="icon-gear"></i>
+                    </div>
+                    <div className="service-text">
+                        <h3 className="h2">⚙️ Software Management</h3>
+                        <p>Keep your software running smoothly with our comprehensive management services. We handle updates, maintenance, performance optimization, and ongoing technical support so you can focus on your business.
+                        </p>
+                    </div>
+                </div>
+
+                <div className="col-block service-item" data-aos="fade-up">
+                    <div className="service-icon">
+                        <i className="icon-group"></i>
+                    </div>
+                    <div className="service-text">
+                        <h3 className="h2">📱 Social Media Marketing</h3>
+                        <p>Strengthen your online presence with strategic social media marketing. We create engaging content, manage campaigns, and help your brand reach the right audience to generate meaningful results.
+                        </p>
+                    </div>
+                </div>
+
+                <div className="col-block service-item" data-aos="fade-up">
+                    <div className="service-icon">
+                        <i className="icon-globe"></i>
+                    </div>
+                    <div className="service-text">
+                        <h3 className="h2">🚀 SEO & Digital Marketing</h3>
+                        <p>Increase your visibility and attract more customers through effective SEO and digital marketing strategies. We optimize your online presence to improve search rankings, drive traffic, and boost conversions.
                         </p>
                     </div>
                 </div>
@@ -43,17 +76,8 @@ const Services = () => {
                         <i className="icon-database"></i>
                     </div>
                     <div className="service-text">
-                        <h3 className="h2">Database Architecture</h3>
-                        <p>Designing optimized relational databases with MySQL, ensuring data integrity, structuring complex schemas, and implementing caching systems for optimal load speeds.
-                        </p>
-                    </div>
-                </div>
-
-                <div className="col-block service-item" data-aos="fade-up">
-                    <div className="service-icon"><i className="icon-gear"></i></div>
-                    <div className="service-text">
-                        <h3 className="h2">Maintenance & Support</h3>
-                        <p>Providing proactive software maintenance, application enhancements, bug fixes, database optimizations, and system monitoring to keep portals stable and reliable.
+                        <h3 className="h2">☁️ Website Maintenance & Hosting</h3>
+                        <p>Ensure your website remains secure, fast, and always available with our maintenance and hosting services. We provide regular updates, backups, security monitoring, and reliable hosting for uninterrupted performance.
                         </p>
                     </div>
                 </div>
