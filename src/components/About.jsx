@@ -20,27 +20,6 @@ const About = () => {
                 </div>
             </div>
 
-            <div className="row about-stats stats block-1-4 block-m-1-2 block-mob-1-2" data-aos="fade-up">
-
-                <div className="col-block stats__col ">
-                    <div className="stats__count">5+</div>
-                    <h5>Years Experience</h5>
-                </div>
-                <div className="col-block stats__col">
-                    <div className="stats__count">3</div>
-                    <h5>Certifications</h5>
-                </div>
-                <div className="col-block stats__col">
-                    <div className="stats__count">15+</div>
-                    <h5>Projects Completed</h5>
-                </div>
-                <div className="col-block stats__col">
-                    <div className="stats__count">10+</div>
-                    <h5>Satisfied Clients</h5>
-                </div>
-
-            </div>
-
             <div className="about__line"></div>
 
 
